@@ -1,0 +1,20 @@
+Convert Below decimal to Octal.
+20 - 24
+100 - 144
+56 - 70
+78 - 116
+1453 - 2655
+544 - 1044
+Convert below decimal to binary
+20 - 0001 0100
+39 - 0010 0111
+49 - 0011 0001
+28 - 0001 1100
+126- 0111 1110
+156- 1001 1100
+Convert below decimal to Hexadecimal
+245 - F5
+45  - 2D
+67  - 43
+98  - 62
+712 - 2C8
