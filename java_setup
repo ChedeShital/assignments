@@ -1,0 +1,41 @@
+1 - What are the latest java version of in market?
+=> Java 8, 
+   Java 11,
+   java 17,
+   Java 19
+
+2 - When We install Java? What are basic folder we got?
+=> After download Java there is two basic folders
+    1. JRE 
+    2. JDK
+
+3 - When java created? and by whom?
+=>  In 1990s, Java was designed by Sun Microsystems.
+
+4 - What are all application available in bin folder of Java Setup?
+=> 
+
+5 - What is WORA?
+=>
+
+6 - install java in your machine and write down all the issues which you faced during installation?
+=>
+
+7 - How to increase RAM associated to JVM in command line
+which command increase RAM associated to JVM
+=>
+
+8 - How to will you check JDK is installed in Machine?
+Write Command to check JDK is installed in machine
+=> java -version
+
+9 - Can we have multiple version of Java in single machine?
+Can a user install multiple version of java in a single machine?
+=> Yes
+
+10 - Create Java File and execute using terminal
+Create one Java File with name A.java
+
+create main method and execute code
+
+open cmd terminal and execute javac and java command to run that code
