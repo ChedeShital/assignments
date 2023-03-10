@@ -1,0 +1,14 @@
+1 - How many bit are there in a byte?
+=> 8 bits
+
+2 - what maximum value, a byte can hold?
+=> Byte can hold maximum value is 255.
+
+3 - Write below number in byte form
+10 => 2 Byte
+1  => 1 Byte
+0  => 1 Byte
+128 => 3 Byte
+127 => 3 Byte
+60  => 2 Byte
+34  => 2 Byte
