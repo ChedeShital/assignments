@@ -1,8 +1,6 @@
 1 - What are the latest java version of in market?
-=> Java 8, 
-   Java 11,
-   java 17,
-   Java 19
+=> Java 19 (Oracle JDK 19) is the latest version of Java in Market.
+    
 
 2 - When We install Java? What are basic folder we got?
 => After download Java there is two basic folders
@@ -16,7 +14,8 @@
 => 
 
 5 - What is WORA?
-=>
+=>  (WORA) is a term that refers to a particular program's supposed ability to run on all common operating systems.
+    The term, sometimes also expressed as write once, run everywhere (WORE)
 
 6 - install java in your machine and write down all the issues which you faced during installation?
 =>
